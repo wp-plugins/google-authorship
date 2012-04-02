@@ -72,7 +72,9 @@ Documentation of <a href="http://mervin.info/google-authorship">Google Authorshi
 == Frequently Asked Questions ==
 
 = What is its Shortcode? =
-[googleplusauthor]
+* Use this shortcode '[google_authorship_badge]' for Google Authorship Badge
+* Use this shortcode '[google_authorship_icon]' for Google Authorship Icon
+* Use this shortcode '[google_authorship]' for Google Authorship Link
 
 
 == Screenshots ==
